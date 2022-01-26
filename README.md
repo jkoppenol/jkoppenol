@@ -5,7 +5,7 @@
 - :speech_balloon: I’m looking to collaborate on automation, shell scripting and UNIX utilities and how particularly the integration with HomeBrew/MacOS 
 - :thought_balloon: I'm an avid promoter and contributer to knowledge and knowhow sharing.
 
-As part of the last point point I am setting up a website at [https://jkoppenol.github.io/](https://jkoppenol.github.io/).
+As part of the last point I am setting up a website at [https://jkoppenol.github.io/](https://jkoppenol.github.io/).
 
 <!---
 jkoppenol/jkoppenol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
